@@ -1,0 +1,140 @@
+<html ><head>
+
+
+    <title> Ｂａｒｉｓｔａ株式会社</title>
+
+</style>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script type="text/javascript">
+        var app = window.app || {};
+        app.js_path = '';
+        app.IS_TOP = false;
+        window.app = app;
+    </script>
+
+    <script type="text/javascript" src="https://www.ponos.jp/wp/wp-content/themes/ponos_recruit/assets/js/lib.js?d=201911120520"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="https://www.ponos.jp/wp/wp-content/themes/ponos_recruit/assets/js/app.js?d=201911120520"></script>
+
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="style.css">
+    <![endif]-->
+
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-V924DX11CN"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+    
+        gtag('config', 'G-V924DX11CN');
+    </script>
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+
+<body style="">
+
+<div class="overlay"></div>
+
+<!--wrap-->
+<div class="wrap">
+
+        
+
+    <!--site-content-->
+    <div class="site-content">
+    <div class="site-content">
+        
+
+    <!--header-->
+    <header class="header" style="display: block; visibility: visible; transform: matrix(1, 0, 0, 1, 0, 0);">
+        <!--menu-btn-->
+        <a href="javascript:void(0)" class="menu-btn-outer">
+            <div class="menu-btn">
+                <span class="btn-bar"></span>
+            </div>
+        </a>
+        <!--/menu-btn-->
+    </header>
+    <!--/header-->
+
+    <!--header-id-->
+    <a href="https://baristagame.com/Jobs/" class="header-id" style="display: block; transform: matrix(1, 0, 0, 1, 0, 0);">
+        <h1><img class="header-id_obj" src="Pic3.jpg" width="163" height="54" alt="BRLOGO"></h1>
+    </a>
+    <!--/header-id-->
+
+
+    <!--menu-->
+    <aside class="menu" style="display: none;">
+        <div class="menu_inner">
+            <a href="https://baristagame.com/News" class="menu_link ">NEWS</a>
+            <a href="https://baristagame.com/Company" class="menu_link ">COMPANY</a>
+            <a href="https://baristagame.com/History" class="menu_link ">HISTORY</a>
+            <a href="https://baristagame.com/Blog" class="menu_link ">BLOG</a>
+            <a href="https://baristagame.com/PrivacyPolicy" class="menu_link ">PRIVACY POLICY</a>
+            <a href="https://baristagame.com/Jobs" class="menu_link ">JOBS</a>
+            <a href="https://baristagame.com/FAQ" class="menu_link ">FAQ</a>
+        </div>
+        <div class="menu_bottom">
+            <a href="https://baristagame.com/Jobs" class="menu_bottom_link">
+                <div class="menu_bottom_link_inner">
+                    <p class="menu_bottom_type">「新卒」</p>
+                    採用情報
+                </div>
+            </a>
+            <a href="https://baristagame.com/Jobs" class="menu_bottom_link menu_bottom_link--black">
+                <div class="menu_bottom_link_inner">
+                    <p class="menu_bottom_type">「キャリア」</p>
+                    採用情報
+                </div>
+            </a>
+        </div>
+    </aside>
+    <!--/menu-->
+
+<!--section-->
+<section class="kv kv--black">
+
+    <div class="kv_head ">
+        <p class="kv_ttl"><br>PLAY　YOUR LIFE</p>
+        <p class="kv_sep kv_sep--jobs"></p>
+        <p class="kv_subttl">RECRUIT BY Ｂａｒｉｓｔａ</p>
+    </div>
+
+</section>
+<!--/section-->
+
+<script type="text/javascript">
+    app.ready_loader();
+</script>
+
+<!--page-content-->
+<div class="page-content" style="height: auto;">
+
+    <!--section-->
+    <section class="sec sec-jobs">
+
+        
+
+<!--/section-->
+
+<div class="footer-content footer_content--jobs">
+
+
+
+</div>
+
+
+
+</div>
+<!--/page-content-->
+
+
+</div>
+<!--/site-content-->
+
+
+<!--/wrap-->
+
+</body></html>
